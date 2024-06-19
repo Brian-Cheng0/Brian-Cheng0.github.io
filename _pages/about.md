@@ -11,21 +11,26 @@ Hi There! I'm a graduate student at Emory University. I finished my BS degree at
 
 Internship Experience
 ======
-Aplus Consultant                                                                  March 2024 - June 2024
+Aplus Consultant    (March 2024 - June 2024)
+
 Machine Learning Intern
 
 • Participate in invoking large model interfaces to analyze the overall patient situation, analyze the overall patient situation, the future trend of the situation, and predict the cost of cure or delay.
 
 • The overall website was made with NEXTJS and REACT, the website was decorated with CSS to display various patient indicators on the page, and the bar chart was realized with RECHART to visualize the existing patient data and the content of the predicted patient number in the future.
 
-China International Capital Corporation Limited                                    June 2024 - Present
+China International Capital Corporation Limited    (June 2024 - Present)
+
 Project Internship
 
 • Participated in the production of the company's large model and used Bert-base-Chinese to classify different segments of the financial report, which significantly improved the accuracy and speed of analysis of the report.
 
 Project Experience
 ======
-2D Zelda Game[Code](https://github.com/Brian-Cheng0/osu-coding/tree/main/cse3902), OSU                                                      January 2023 – April 2023 Team Leader, CSE 3902
+2D Zelda Game[Code](https://github.com/Brian-Cheng0/osu-coding/tree/main/cse3902), OSU(             January 2023 – April 2023) 
+
+Team Leader, CSE 3902
+
 • Develop an interactive system for 2D Zelda games in C#, incorporating UI design and implementing multiple design patterns such as factory, decoration, and command modes to improve gameplay.
 • By assigning different tasks such as character movement direction, scene room layout, game props design, etc., the whole group can effectively complete corresponding tasks. Compared with the original work, different weapon choices are added to increase the diversity of the game.
 
