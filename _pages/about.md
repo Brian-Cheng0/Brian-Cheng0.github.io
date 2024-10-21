@@ -41,8 +41,10 @@ Software Development Engineer, CSE 3902
 
 • Developed an interactive system for 2D Zelda games using C#, implementing UI design and design patterns such as factory, decorator, and command to enhance gameplay. Improved efficiency by assigning tasks like character movement, scene layout, increasing game diversity by adding various weapon choices.
 
-Crypto Currency Search Platform [Code](https://github.com/Brian-Cheng0/osu-coding/tree/main/CSE5914), OSU (January 2024 – April 2024)
+Crypto Currency Search Platform [Code](https://github.com/Brian-Cheng0/osu-coding/tree/main/CSE5914), OSU ( January 2024 – April 2024)
+
 Software Development Engineer, CSE 5914
+
 • Built a cryptocurrency search platform using Python and ElasticSearch, integrating third-party APIs to retrieve the latest data. Designed the website UI with CSS, HTML, and JavaScript to facilitate user account management and data visualization.
 
 Site-wide configuration
