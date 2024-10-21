@@ -35,13 +35,13 @@ Research Assistant
 
 Project Experience
 ======
-2D Zelda Game[Code](https://github.com/Brian-Cheng0/osu-coding/tree/main/cse3902), OSU(             January 2023 – April 2023) 
+2D Zelda Game [[Code](https://github.com/Brian-Cheng0/osu-coding/tree/main/cse3902)], OSU(             January 2023 – April 2023) 
 
 Software Development Engineer, CSE 3902
 
 • Developed an interactive system for 2D Zelda games using C#, implementing UI design and design patterns such as factory, decorator, and command to enhance gameplay. Improved efficiency by assigning tasks like character movement, scene layout, increasing game diversity by adding various weapon choices.
 
-Crypto Currency Search Platform [Code](https://github.com/Brian-Cheng0/osu-coding/tree/main/CSE5914), OSU ( January 2024 – April 2024)
+Crypto Currency Search Platform [[Code](https://github.com/Brian-Cheng0/osu-coding/tree/main/CSE5914)], OSU ( January 2024 – April 2024)
 
 Software Development Engineer, CSE 5914
 
