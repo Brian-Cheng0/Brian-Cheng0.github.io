@@ -13,26 +13,37 @@ Internship Experience
 ======
 Aplus Consultant    (March 2024 - June 2024)
 
-Machine Learning Intern
+Software Engineer Intern (Machine Learning)
 
-• Participate in invoking large model interfaces to analyze the overall patient situation, analyze the overall patient situation, the future trend of the situation, and predict the cost of cure or delay.
+• Developed patient data analysis tools using Python, engineered interfaces for large language models to analyze, predict, and visualize the future trends in patient health scenarios and the associated costs of treatments, enhancing predictive accuracy and operational efficiency in clinical settings.
 
-• The overall website was made with NEXTJS and REACT, the website was decorated with CSS to display various patient indicators on the page, and the bar chart was realized with RECHART to visualize the existing patient data and the content of the predicted patient number in the future.
+• Implemented a dynamic web interface using Next.js and React, Led the design and development of a responsive web application to display various health indicators, utilizing CSS for styling. Integrated Recharts to create interactive bar charts that visualize both current and predicted patient data, improving user engagement and data accessibility.
 
-China International Capital Corporation Limited    (June 2024 - Present)
+China International Capital Corporation Limited    (June 2024 - August 2024)
 
-Project Internship
+Software Engineer Intern (Machine Learning)
 
-• Participated in the production of the company's large model and used Bert-base-Chinese to classify different segments of the financial report, which significantly improved the accuracy and speed of analysis of the report.
+• Enhanced financial reporting tools using Python and Bert-Base-Chinese, developed and optimized a large language model to classify financial report segments accurately, increasing classification accuracy to 65% across more than 100 categories and accelerating report processing.
+
+• Monitored model performance using advanced analytics platforms, utilized MLflow, Tensorboard, and Weights and Biases to track large language model performance, creating detailed visual presentations that facilitated effective communication and decision-making among team members.
+
+Emory University
+
+Research Assistant
+
+• Collaborating with research professors to manage and optimize computational resources using Slurm Workload Manager, Postgresql to load the data, and Hydra to configure complex application. Accessing and analyzing the MIMIC-IV dataset, focusing on complex event sequences, and employ a data pre-processing and modeling library for Generative Pre-trained Transformers (GPTs) to work with continuous-time sequences.
 
 Project Experience
 ======
 2D Zelda Game[Code](https://github.com/Brian-Cheng0/osu-coding/tree/main/cse3902), OSU(             January 2023 – April 2023) 
 
-Team Leader, CSE 3902
+Software Development Engineer, CSE 3902
 
-• Develop an interactive system for 2D Zelda games in C#, incorporating UI design and implementing multiple design patterns such as factory, decoration, and command modes to improve gameplay.
-• By assigning different tasks such as character movement direction, scene room layout, game props design, etc., the whole group can effectively complete corresponding tasks. Compared with the original work, different weapon choices are added to increase the diversity of the game.
+• Developed an interactive system for 2D Zelda games using C#, implementing UI design and design patterns such as factory, decorator, and command to enhance gameplay. Improved efficiency by assigning tasks like character movement, scene layout, increasing game diversity by adding various weapon choices.
+
+Crypto Currency Search Platform [Code](https://github.com/Brian-Cheng0/osu-coding/tree/main/CSE5914), OSU (January 2024 – April 2024)
+Software Development Engineer, CSE 5914
+• Built a cryptocurrency search platform using Python and ElasticSearch, integrating third-party APIs to retrieve the latest data. Designed the website UI with CSS, HTML, and JavaScript to facilitate user account management and data visualization.
 
 Site-wide configuration
 ------
